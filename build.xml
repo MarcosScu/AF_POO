@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Sis_locacao_autos" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Sis_locacao_autos.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
